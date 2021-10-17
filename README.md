@@ -1,6 +1,5 @@
 # Pewlett_Hackard_Analysis
-This is a project using SQL to analyze employee data to find out the number of employees that will be retiring soon. 
-
+This is a project using SQL to analyze employee data to find out the number of employees that will be retiring son, using data provided in six CSV files. This analysis was conducted using SQL and pgadmin. 
 ## Overview
 
 The original analysis examined the number of employees born between 1952 and 1955 and those who were hired between 1985 - 1988 to determine who was was likely to retire in the near future. We also created csv files with this data to determine of these potential retirees, what departments they were in and their manager names. However, due to the nature of this analysis there were multiple instances of a single employee for each job title they had held while at the company. 
